@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*main–print _putchar
+*main–print_putchar
 *Return:0(Sucess)
 */
 int main(void)
